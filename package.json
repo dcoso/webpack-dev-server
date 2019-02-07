@@ -1,11 +1,11 @@
 {
-  "name": "webpack-dev-server",
+  "name": "@oreillymedia/webpack-dev-server",
   "version": "2.11.3",
   "description": "Serves a webpack app. Updates the browser on changes.",
   "license": "MIT",
   "repository": "webpack/webpack-dev-server",
   "author": "Tobias Koppers @sokra",
-  "homepage": "https://github.com/webpack/webpack-dev-server",
+  "homepage": "https://github.com/oreillymedia/webpack-dev-server",
   "maintainers": [
     {
       "name": "Andrew Powell",
